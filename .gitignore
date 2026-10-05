@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor settings
+.vscode/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
