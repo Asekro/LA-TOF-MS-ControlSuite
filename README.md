@@ -14,7 +14,7 @@ Voraussetzungen: Python (erstellt und geprüft mit Python 3.12), Git und VS Code
 der Python-Erweiterung. Im Projektordner in einem PowerShell-Terminal:
 
 ```powershell
-python -m venv .venv
+python -m venv .venvX
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 ```
